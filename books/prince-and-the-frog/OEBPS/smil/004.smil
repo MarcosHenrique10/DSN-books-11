@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id13g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="18926ms" clipEnd="19756ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- When -->
+			<text src="../004.xhtml#w13"/>
+			<audio clipBegin="19756ms" clipEnd="20136ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Tiana -->
+			<text src="../004.xhtml#w14"/>
+			<audio clipBegin="20136ms" clipEnd="20826ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- was -->
+			<text src="../004.xhtml#w15"/>
+			<audio clipBegin="20826ms" clipEnd="21116ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- a -->
+			<text src="../004.xhtml#w16"/>
+			<audio clipBegin="21116ms" clipEnd="21206ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- little -->
+			<text src="../004.xhtml#w17"/>
+			<audio clipBegin="21206ms" clipEnd="21956ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- girl -->
+			<text src="../004.xhtml#w18"/>
+			<audio clipBegin="21956ms" clipEnd="22906ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- she -->
+			<text src="../004.xhtml#w19"/>
+			<audio clipBegin="22906ms" clipEnd="23256ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- loved -->
+			<text src="../004.xhtml#w20"/>
+			<audio clipBegin="23256ms" clipEnd="24096ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- to -->
+			<text src="../004.xhtml#w21"/>
+			<audio clipBegin="24096ms" clipEnd="24456ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- cook -->
+			<text src="../004.xhtml#w22"/>
+			<audio clipBegin="24456ms" clipEnd="26166ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- Food -->
+			<text src="../004.xhtml#w23"/>
+			<audio clipBegin="26166ms" clipEnd="26636ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- brings -->
+			<text src="../004.xhtml#w24"/>
+			<audio clipBegin="26636ms" clipEnd="27156ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- people -->
+			<text src="../004.xhtml#w25"/>
+			<audio clipBegin="27156ms" clipEnd="27526ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- together -->
+			<text src="../004.xhtml#w26"/>
+			<audio clipBegin="27526ms" clipEnd="28956ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- Tiana's -->
+			<text src="../004.xhtml#w27"/>
+			<audio clipBegin="28956ms" clipEnd="29516ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- daddy -->
+			<text src="../004.xhtml#w28"/>
+			<audio clipBegin="29516ms" clipEnd="29996ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- always -->
+			<text src="../004.xhtml#w29"/>
+			<audio clipBegin="29996ms" clipEnd="30416ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- said -->
+			<text src="../004.xhtml#w30"/>
+			<audio clipBegin="30416ms" clipEnd="30766ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id30g">
+			<!--  -->
+			<text src="../004.xhtml#empty1"/>
+			<audio clipBegin="30766ms" clipEnd="31291ms" src="../audio/9781484785836.m4a"/>
+		</par>
+	</body>
+</smil>

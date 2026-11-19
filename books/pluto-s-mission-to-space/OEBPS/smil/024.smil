@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id208g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="120764ms" clipEnd="121014ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id208">
+			<!-- Passengers -->
+			<text src="../024.xhtml#w208"/>
+			<audio clipBegin="121014ms" clipEnd="121644ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id209">
+			<!-- on -->
+			<text src="../024.xhtml#w209"/>
+			<audio clipBegin="121644ms" clipEnd="121794ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id210">
+			<!-- recent -->
+			<text src="../024.xhtml#w210"/>
+			<audio clipBegin="121794ms" clipEnd="122348ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id211">
+			<!-- space -->
+			<text src="../024.xhtml#w211"/>
+			<audio clipBegin="122348ms" clipEnd="122658ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id212">
+			<!-- flights -->
+			<text src="../024.xhtml#w212"/>
+			<audio clipBegin="122658ms" clipEnd="122994ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id213">
+			<!-- got -->
+			<text src="../024.xhtml#w213"/>
+			<audio clipBegin="122994ms" clipEnd="123204ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id214">
+			<!-- an -->
+			<text src="../024.xhtml#w214"/>
+			<audio clipBegin="123204ms" clipEnd="123404ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id215">
+			<!-- unexpected -->
+			<text src="../024.xhtml#w215"/>
+			<audio clipBegin="123404ms" clipEnd="124534ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id216">
+			<!-- SURPRISE -->
+			<text src="../024.xhtml#w216"/>
+			<audio clipBegin="124534ms" clipEnd="125424ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id217">
+			<!-- with -->
+			<text src="../024.xhtml#w217"/>
+			<audio clipBegin="125424ms" clipEnd="125684ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id218">
+			<!-- their -->
+			<text src="../024.xhtml#w218"/>
+			<audio clipBegin="125684ms" clipEnd="125894ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id219">
+			<!-- luggage -->
+			<text src="../024.xhtml#w219"/>
+			<audio clipBegin="125894ms" clipEnd="126504ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id219g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="126504ms" clipEnd="127039ms" src="../audio/9781368015547.m4a"/>
+		</par>
+	</body>
+</smil>

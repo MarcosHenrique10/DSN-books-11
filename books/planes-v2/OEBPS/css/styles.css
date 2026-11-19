@@ -1,0 +1,290 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"adobe-caslon-bold";
+	src: url(../fonts/ACasBol.otf);
+}
+@font-face {
+	font-family:"airbrake-regular";
+	src: url(../fonts/Airbrake.otf);
+}
+@font-face {
+	font-family:"arial-black-regular";
+	src: url(../fonts/Arial-Black.otf);
+}
+@font-face {
+	font-family:"arial-black-italic";
+	src: url(../fonts/ArialNarBolIta.otf);
+}
+@font-face {
+	font-family:"pag-revolucion-regular";
+	src: url(../fonts/PAGRevolucion.otf);
+}
+@font-face {
+	font-family:"kreeture-regular";
+	src: url(../fonts/Kreeture.otf);
+}
+@font-face {
+	font-family:"coffeehouse-regular";
+	src: url(../fonts/Coffe.otf);
+}
+@font-face {
+	font-family:"edwardian-medium-plain";
+	src: url(../fonts/EdwarMedPla.otf);
+}
+@font-face {
+	font-family:"comic-book-normal-regular";
+	src: url(../fonts/ComicBooNor.otf);
+}
+@font-face {
+	font-family:"zalderdash-regular";
+	src: url(../fonts/Zalde.otf);
+}
+@font-face {
+	font-family:"avenir-55-roman";
+	src: url(../fonts/AveniMed.otf);
+}
+@font-face {
+	font-family:"avenir-55-oblique";
+	src: url(../fonts/AveniObl.otf);
+}
+@font-face {
+	font-family:"bodoni-poster";
+	src: url(../fonts/BodonPos.otf);
+}
+@font-face {
+	font-family:"serpentine-medium-oblique";
+	src: url(../fonts/SerpeMedObl.otf);
+}
+
+
+
+.font-1 {
+	font-family:"avenir-55-roman";
+	font-size:10px;
+}
+.font-2 {
+	font-family:"futura-t1-light";
+	font-size:12px;
+}
+.font-3 {
+	font-family:"arial-regular";
+	font-size:9px;
+}
+.font-4 {
+	font-family:"arial-regular";
+	font-size:14px;
+}
+.font-5 {
+	font-family:"avenir-55-roman";
+	font-size:18px;
+}
+.font-5 span.media-overlay-active {
+	color: #336600 !important;
+}
+.font-6 {
+	font-family:"avenir-55-roman";
+	font-size:16px;
+	line-height:22px;
+}
+.font-7 {
+	font-family:"pag-revolucion-regular";
+	font-size:30px;
+	line-height:0px;
+}
+.font-7a {
+	font-family:"pag-revolucion-regular";
+	font-size:30px;
+}
+.font-7a span.media-overlay-active {
+	color: #336600 !important;
+}
+
+.font-8 {
+	font-family:"avenir-55-roman";
+	font-size:22px;
+	line-height:30px;
+}
+.font-8a {
+	font-family:"pag-revolucion-regular";
+	font-size:55px;
+	line-height:0px;
+}
+.font-9 {
+	font-family:"arial-black-regular";
+	font-size:26px;
+	line-height:0px;
+}
+.font-10 {
+	font-family:"pag-revolucion-regular";
+	font-size:25px;
+	line-height:0px;
+}
+.font-11 {
+	font-family:"zalderdash-regular";
+	font-size:27px;
+	line-height:0px;
+}
+.font-12 {
+	font-family:"airbrake-regular";
+	font-size:22px;
+	line-height:0px;
+}
+.font-13 {
+	font-family:"airbrake-regular";
+	font-size:20px;
+	line-height:29px;
+}
+.font-14 {
+	font-family:"comic-book-normal-regular";
+	font-size:23px;
+	line-height:30px;
+}
+.font-15 {
+	font-family:"avenir-55-roman";
+	font-size:20px;
+	line-height:29px;
+}
+.font-16 {
+	font-family:"arial-black-regular";
+	font-size:48px;
+	line-height:33px;
+}
+.font-17 {
+	font-family:"adobe-caslon-bold";
+	font-size:24px;
+	line-height:30px;
+}
+.font-18 {
+	font-family:"arial-black-regular";
+	font-size:20px;
+	line-height:27px;
+}
+.font-19 {
+	font-family:"edwardian-medium-plain";
+	font-size:26px;
+	line-height:27px;
+}
+.font-19a {
+	font-family:"arial-black-regular";
+	font-size:26px;
+	line-height:0px;
+}
+.font-19b {
+	font-family:"arial-black-regular";
+	font-size:22px;
+	line-height:0px;
+}
+.font-19c {
+	font-family:"arial-black-italic";
+	font-size:24px;
+	line-height:0px;
+}
+.font-20 {
+	font-family:"bodoni-poster";
+	font-size:24px;
+	line-height:27px;
+}
+.font-21 {
+	font-family:"serpentine-medium-oblique";
+	font-size:26px;
+	line-height:27px;
+}
+.font-22 {
+	font-family:"pag-revolucion-regular";
+	font-size:20px;
+	line-height:27px;
+}
+.font-23 {
+	font-family:"kreeture-regular";
+	font-size:100px;
+	line-height:138px;
+}
+.font-24 {
+	font-family:"pag-revolucion-regular";
+	font-size:45px;
+}
+.font-25 {
+	font-family:"coffeehouse-regular";
+	font-size:25px;
+	line-height:0px;
+}
+.font-26 {
+	font-family:"avenir-55-oblique";
+	font-size:22px;
+	line-height:30px;
+}
+.font-27 {
+	font-family:"airbrake-regular";
+	font-size:27px;
+	line-height:27px;
+}
+.font-28 {
+	font-family:"airbrake-regular";
+	font-size:28px;
+	line-height:0px;
+}
+.font-29 {
+	font-family:"avenir-55-roman";
+	font-size:20px;
+	line-height:35px;
+}
+.font-30 {
+	font-family:"pag-revolucion-regular";
+	font-size:29px;
+	line-height:27px;
+}
+.font-32 {
+	font-family:"pag-revolucion-regular";
+	font-size:35px;
+}
+.font-33 {
+	font-family:"pag-revolucion-regular";
+	font-size:45px;
+}
+.font-34 {
+	font-family:"pag-revolucion-regular";
+	font-size:60px;
+}
+.font-35 {
+	font-family:"pag-revolucion-regular";
+	font-size:35px;
+}
+
+
+.c1 {
+	color:#FFF;
+}
+.lh1 {
+	line-height:10px !important;
+}
+.m1 {
+	margin-bottom:10px !important;
+}
+.m2 {
+	margin-right:-5px !important;
+}
+.m2a {
+	margin-right:-7px !important;
+}
+.m3 {
+	margin-left:90px !important;
+}
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:891px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:891px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:738px; height:891px; position:relative; background-size:contain; left:25%; }
+/*span { color:#f6f !important; }*/

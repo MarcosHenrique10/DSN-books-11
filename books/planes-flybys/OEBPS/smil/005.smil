@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id12g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="24645ms" clipEnd="25735ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- So -->
+			<text src="../006.xhtml#w12"/>
+			<audio clipBegin="25735ms" clipEnd="26155ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Ripslinger -->
+			<text src="../006.xhtml#w13"/>
+			<audio clipBegin="26155ms" clipEnd="26955ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- gave -->
+			<text src="../006.xhtml#w14"/>
+			<audio clipBegin="26955ms" clipEnd="27325ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- it -->
+			<text src="../006.xhtml#w15"/>
+			<audio clipBegin="27325ms" clipEnd="27435ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- one -->
+			<text src="../006.xhtml#w16"/>
+			<audio clipBegin="27435ms" clipEnd="27875ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id16g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="27875ms" clipEnd="28475ms" src="../audio/9781484751787.m4a"/>
+		</par>
+	</body>
+</smil>

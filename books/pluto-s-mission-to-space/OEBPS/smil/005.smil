@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="3406ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Pluto's -->
+			<text src="../005.xhtml#w1"/>
+			<audio clipBegin="3406ms" clipEnd="4366ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Mission -->
+			<text src="../005.xhtml#w2"/>
+			<audio clipBegin="4366ms" clipEnd="5476ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- to -->
+			<text src="../005.xhtml#w3"/>
+			<audio clipBegin="5476ms" clipEnd="6116ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Space -->
+			<text src="../005.xhtml#w4"/>
+			<audio clipBegin="6116ms" clipEnd="8579ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Stories -->
+			<text src="../005.xhtml#w5"/>
+			<audio clipBegin="8579ms" clipEnd="9229ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- and -->
+			<text src="../005.xhtml#w6"/>
+			<audio clipBegin="9229ms" clipEnd="9449ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Pictures -->
+			<text src="../005.xhtml#w7"/>
+			<audio clipBegin="9449ms" clipEnd="9969ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- by -->
+			<text src="../005.xhtml#w8"/>
+			<audio clipBegin="9969ms" clipEnd="10269ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Jason -->
+			<text src="../005.xhtml#w9"/>
+			<audio clipBegin="10269ms" clipEnd="10839ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Grandt -->
+			<text src="../005.xhtml#w10"/>
+			<audio clipBegin="10839ms" clipEnd="11299ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id10g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="11299ms" clipEnd="12977ms" src="../audio/9781368015547.m4a"/>
+		</par>
+	</body>
+</smil>

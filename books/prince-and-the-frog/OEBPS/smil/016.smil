@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id260g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="171166ms" clipEnd="172016ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id260">
+			<!-- Tiana -->
+			<text src="../016.xhtml#w260"/>
+			<audio clipBegin="172016ms" clipEnd="172686ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id261">
+			<!-- and -->
+			<text src="../016.xhtml#w261"/>
+			<audio clipBegin="172686ms" clipEnd="172966ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id262">
+			<!-- Naveen -->
+			<text src="../016.xhtml#w262"/>
+			<audio clipBegin="172966ms" clipEnd="173836ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id263">
+			<!-- escaped -->
+			<text src="../016.xhtml#w263"/>
+			<audio clipBegin="173836ms" clipEnd="175486ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id264">
+			<!-- Tiana -->
+			<text src="../016.xhtml#w264"/>
+			<audio clipBegin="175486ms" clipEnd="175996ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id265">
+			<!-- worked -->
+			<text src="../016.xhtml#w265"/>
+			<audio clipBegin="175996ms" clipEnd="176886ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id266">
+			<!-- while -->
+			<text src="../016.xhtml#w266"/>
+			<audio clipBegin="176886ms" clipEnd="177396ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id267">
+			<!-- Naveen -->
+			<text src="../016.xhtml#w267"/>
+			<audio clipBegin="177396ms" clipEnd="177926ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id268">
+			<!-- played -->
+			<text src="../016.xhtml#w268"/>
+			<audio clipBegin="177926ms" clipEnd="178536ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id268g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="178536ms" clipEnd="179166ms" src="../audio/9781484785836.m4a"/>
+		</par>
+	</body>
+</smil>

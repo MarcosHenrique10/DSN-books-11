@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id220g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="107010ms" clipEnd="107405ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id220">
+      <!-- Dusty -->
+      <text src="../013.xhtml#w220"/>
+      <audio clipBegin="107405ms" clipEnd="107775ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id221">
+      <!-- saw -->
+      <text src="../013.xhtml#w221"/>
+      <audio clipBegin="107775ms" clipEnd="108025ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id222">
+      <!-- the -->
+      <text src="../013.xhtml#w222"/>
+      <audio clipBegin="108025ms" clipEnd="108105ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id223">
+      <!-- famous -->
+      <text src="../013.xhtml#w223"/>
+      <audio clipBegin="108105ms" clipEnd="108535ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id224">
+      <!-- Ripslinger -->
+      <text src="../013.xhtml#w224"/>
+      <audio clipBegin="108535ms" clipEnd="109735ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id226">
+      <!-- and -->
+      <text src="../013.xhtml#w226"/>
+      <audio clipBegin="109735ms" clipEnd="109885ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id227">
+      <!-- El -->
+      <text src="../013.xhtml#w227"/>
+      <audio clipBegin="109885ms" clipEnd="109995ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id228">
+      <!-- Chupacabra -->
+      <text src="../013.xhtml#w228"/>
+      <audio clipBegin="109995ms" clipEnd="110995ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id229">
+      <!-- the -->
+      <text src="../013.xhtml#w229"/>
+      <audio clipBegin="110995ms" clipEnd="111085ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id230">
+      <!-- flashy -->
+      <text src="../013.xhtml#w230"/>
+      <audio clipBegin="111085ms" clipEnd="111645ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id232">
+      <!-- Mexican -->
+      <text src="../013.xhtml#w232"/>
+      <audio clipBegin="111645ms" clipEnd="112165ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id233">
+      <!-- racer -->
+      <text src="../013.xhtml#w233"/>
+      <audio clipBegin="112165ms" clipEnd="112635ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id233g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="112635ms" clipEnd="113439ms" src="../audio/9781423192268.m4a"/>
+    </par>
+  </body>
+</smil>

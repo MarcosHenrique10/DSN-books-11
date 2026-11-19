@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id338g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="160535ms" clipEnd="161065ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id338">
+      <!-- Luckily -->
+      <text src="../019.xhtml#w338"/>
+      <audio clipBegin="161065ms" clipEnd="161585ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id339">
+      <!-- two -->
+      <text src="../019.xhtml#w339"/>
+      <audio clipBegin="161585ms" clipEnd="161835ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id340">
+      <!-- navy -->
+      <text src="../019.xhtml#w340"/>
+      <audio clipBegin="161835ms" clipEnd="162125ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id341">
+      <!-- jets -->
+      <text src="../019.xhtml#w341"/>
+      <audio clipBegin="162125ms" clipEnd="162685ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id342">
+      <!-- Bravo -->
+      <text src="../019.xhtml#w342"/>
+      <audio clipBegin="162685ms" clipEnd="163165ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id344">
+      <!-- and -->
+      <text src="../019.xhtml#w344"/>
+      <audio clipBegin="163165ms" clipEnd="163375ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id345">
+      <!-- ECHO -->
+      <text src="../019.xhtml#w345"/>
+      <audio clipBegin="163375ms" clipEnd="163955ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id347">
+      <!-- rescued -->
+      <text src="../019.xhtml#w347"/>
+      <audio clipBegin="163955ms" clipEnd="164475ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id348">
+      <!-- Dusty -->
+      <text src="../019.xhtml#w348"/>
+      <audio clipBegin="164475ms" clipEnd="165365ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id349">
+      <!-- They -->
+      <text src="../019.xhtml#w349"/>
+      <audio clipBegin="165365ms" clipEnd="165505ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id350">
+      <!-- took -->
+      <text src="../019.xhtml#w350"/>
+      <audio clipBegin="165505ms" clipEnd="165745ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id351">
+      <!-- him -->
+      <text src="../019.xhtml#w351"/>
+      <audio clipBegin="165745ms" clipEnd="165805ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id352">
+      <!-- to -->
+      <text src="../019.xhtml#w352"/>
+      <audio clipBegin="165805ms" clipEnd="165935ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id353">
+      <!-- the -->
+      <text src="../019.xhtml#w353"/>
+      <audio clipBegin="165935ms" clipEnd="166125ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id354">
+      <!-- aircraft -->
+      <text src="../019.xhtml#w354"/>
+      <audio clipBegin="166125ms" clipEnd="166645ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id355">
+      <!-- carrier -->
+      <text src="../019.xhtml#w355"/>
+      <audio clipBegin="166645ms" clipEnd="167345ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id356">
+      <!-- Dwight -->
+      <text src="../019.xhtml#w356"/>
+      <audio clipBegin="167345ms" clipEnd="167755ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id357">
+      <!-- D -->
+      <text src="../019.xhtml#w357"/>
+      <audio clipBegin="167755ms" clipEnd="168195ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id358">
+      <!-- Flysenhower -->
+      <text src="../019.xhtml#w358"/>
+      <audio clipBegin="168195ms" clipEnd="169095ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id358g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="169095ms" clipEnd="169917ms" src="../audio/9781423192268.m4a"/>
+    </par>
+  </body>
+</smil>

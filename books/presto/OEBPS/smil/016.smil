@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id192g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="118316ms" clipEnd="119106ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- EERR -->
+			<text src="../016.xhtml#w192"/>
+			<audio clipBegin="119106ms" clipEnd="120666ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- SLAM -->
+			<text src="../016.xhtml#w193"/>
+			<audio clipBegin="120666ms" clipEnd="122076ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- Yikes -->
+			<text src="../016.xhtml#w194"/>
+			<audio clipBegin="122076ms" clipEnd="123836ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- Alec -->
+			<text src="../016.xhtml#w195"/>
+			<audio clipBegin="123836ms" clipEnd="124246ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- has -->
+			<text src="../016.xhtml#w196"/>
+			<audio clipBegin="124246ms" clipEnd="124556ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- Presto's -->
+			<text src="../016.xhtml#w197"/>
+			<audio clipBegin="124556ms" clipEnd="125216ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- arm -->
+			<text src="../016.xhtml#w198"/>
+			<audio clipBegin="125216ms" clipEnd="125686ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id198g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="125686ms" clipEnd="126241ms" src="../audio/9781484785850.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id265g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="164356ms" clipEnd="164876ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id265">
+			<!-- Suddenly -->
+			<text src="../021.xhtml#w265"/>
+			<audio clipBegin="164876ms" clipEnd="165786ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id266">
+			<!-- the -->
+			<text src="../021.xhtml#w266"/>
+			<audio clipBegin="165786ms" clipEnd="165876ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id267">
+			<!-- rope -->
+			<text src="../021.xhtml#w267"/>
+			<audio clipBegin="165876ms" clipEnd="166106ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id268">
+			<!-- breaks -->
+			<text src="../021.xhtml#w268"/>
+			<audio clipBegin="166106ms" clipEnd="166696ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id269">
+			<!-- and -->
+			<text src="../021.xhtml#w269"/>
+			<audio clipBegin="166696ms" clipEnd="166876ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id270">
+			<!-- Presto -->
+			<text src="../021.xhtml#w270"/>
+			<audio clipBegin="166876ms" clipEnd="167556ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id271">
+			<!-- falls -->
+			<text src="../021.xhtml#w271"/>
+			<audio clipBegin="167556ms" clipEnd="168906ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id272">
+			<!-- Will -->
+			<text src="../021.xhtml#w272"/>
+			<audio clipBegin="168906ms" clipEnd="169026ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id273">
+			<!-- no -->
+			<text src="../021.xhtml#w273"/>
+			<audio clipBegin="169026ms" clipEnd="169416ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id274">
+			<!-- one -->
+			<text src="../021.xhtml#w274"/>
+			<audio clipBegin="169416ms" clipEnd="169696ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id275">
+			<!-- save -->
+			<text src="../021.xhtml#w275"/>
+			<audio clipBegin="169696ms" clipEnd="170286ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id276">
+			<!-- poor -->
+			<text src="../021.xhtml#w276"/>
+			<audio clipBegin="170286ms" clipEnd="170706ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id277">
+			<!-- Presto -->
+			<text src="../021.xhtml#w277"/>
+			<audio clipBegin="170706ms" clipEnd="171696ms" src="../audio/9781484785850.m4a"/>
+		</par>
+		<par id="id277g">
+			<!--  -->
+			<text src="../021.xhtml#empty1"/>
+			<audio clipBegin="171696ms" clipEnd="172516ms" src="../audio/9781484785850.m4a"/>
+		</par>
+	</body>
+</smil>

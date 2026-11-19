@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id469g">
+			<!--  -->
+			<text src="../039.xhtml#empty"/>
+			<audio clipBegin="281910ms" clipEnd="282425ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id469">
+			<!-- El -->
+			<text src="../039.xhtml#w469"/>
+			<audio clipBegin="282425ms" clipEnd="282895ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id470">
+			<!-- Chupacabra -->
+			<text src="../039.xhtml#w470"/>
+			<audio clipBegin="282895ms" clipEnd="284675ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id470g">
+			<!--  -->
+			<text src="../039.xhtml#empty"/>
+			<audio clipBegin="284675ms" clipEnd="285770ms" src="../audio/9781484751787.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id155g">
+			<!--  -->
+			<text src="../019.xhtml#empty"/>
+			<audio clipBegin="89769ms" clipEnd="90294ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id155">
+			<!-- and -->
+			<text src="../019.xhtml#w155"/>
+			<audio clipBegin="90294ms" clipEnd="90704ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id156">
+			<!-- zapping -->
+			<text src="../019.xhtml#w156"/>
+			<audio clipBegin="90704ms" clipEnd="91384ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id157">
+			<!-- through -->
+			<text src="../019.xhtml#w157"/>
+			<audio clipBegin="91384ms" clipEnd="91604ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id158">
+			<!-- WORMHOLES -->
+			<text src="../019.xhtml#w158"/>
+			<audio clipBegin="91604ms" clipEnd="92854ms" src="../audio/9781368015547.m4a"/>
+		</par>
+		<par id="id158g">
+			<!--  -->
+			<text src="../019.xhtml#empty"/>
+			<audio clipBegin="92854ms" clipEnd="93114ms" src="../audio/9781368015547.m4a"/>
+		</par>
+	</body>
+</smil>

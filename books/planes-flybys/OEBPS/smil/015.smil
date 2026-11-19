@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id105g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="75265ms" clipEnd="76365ms" src="../audio/9781484751787.m4a"/>
+		</par>
+		<par id="id105">
+			<!-- Ishani -->
+			<text src="../016.xhtml#w105"/>
+			<audio clipBegin="76365ms" clipEnd="77545ms" src="../audio/9781484751787.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id443g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="288781ms" clipEnd="289636ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id443">
+			<!-- Tiana -->
+			<text src="../024.xhtml#w443"/>
+			<audio clipBegin="289636ms" clipEnd="290376ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id444">
+			<!-- and -->
+			<text src="../024.xhtml#w444"/>
+			<audio clipBegin="290376ms" clipEnd="290696ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id445">
+			<!-- Naveen -->
+			<text src="../024.xhtml#w445"/>
+			<audio clipBegin="290696ms" clipEnd="291266ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id446">
+			<!-- worked -->
+			<text src="../024.xhtml#w446"/>
+			<audio clipBegin="291266ms" clipEnd="291776ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id447">
+			<!-- hard -->
+			<text src="../024.xhtml#w447"/>
+			<audio clipBegin="291776ms" clipEnd="292316ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id448">
+			<!-- TOGETHER -->
+			<text src="../024.xhtml#w448"/>
+			<audio clipBegin="292316ms" clipEnd="292976ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id449">
+			<!-- to -->
+			<text src="../024.xhtml#w449"/>
+			<audio clipBegin="292976ms" clipEnd="293326ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id450">
+			<!-- fix -->
+			<text src="../024.xhtml#w450"/>
+			<audio clipBegin="293326ms" clipEnd="293646ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id451">
+			<!-- up -->
+			<text src="../024.xhtml#w451"/>
+			<audio clipBegin="293646ms" clipEnd="293876ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id452">
+			<!-- her -->
+			<text src="../024.xhtml#w452"/>
+			<audio clipBegin="293876ms" clipEnd="294136ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id453">
+			<!-- restaurant -->
+			<text src="../024.xhtml#w453"/>
+			<audio clipBegin="294136ms" clipEnd="294876ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id453g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="294876ms" clipEnd="295481ms" src="../audio/9781484785836.m4a"/>
+		</par>
+	</body>
+</smil>

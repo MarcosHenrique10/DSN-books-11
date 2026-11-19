@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id127g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="87006ms" clipEnd="87816ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id127">
+			<!-- Charlotte -->
+			<text src="../008.xhtml#w127"/>
+			<audio clipBegin="87816ms" clipEnd="88646ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id128">
+			<!-- gave -->
+			<text src="../008.xhtml#w128"/>
+			<audio clipBegin="88646ms" clipEnd="88966ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id129">
+			<!-- Tiana -->
+			<text src="../008.xhtml#w129"/>
+			<audio clipBegin="88966ms" clipEnd="89666ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id130">
+			<!-- a -->
+			<text src="../008.xhtml#w130"/>
+			<audio clipBegin="89666ms" clipEnd="89746ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id131">
+			<!-- pretty -->
+			<text src="../008.xhtml#w131"/>
+			<audio clipBegin="89746ms" clipEnd="90316ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id132">
+			<!-- princess -->
+			<text src="../008.xhtml#w132"/>
+			<audio clipBegin="90316ms" clipEnd="91156ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id133">
+			<!-- costume -->
+			<text src="../008.xhtml#w133"/>
+			<audio clipBegin="91156ms" clipEnd="92916ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id134">
+			<!-- But -->
+			<text src="../008.xhtml#w134"/>
+			<audio clipBegin="92916ms" clipEnd="93426ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id135">
+			<!-- Tiana -->
+			<text src="../008.xhtml#w135"/>
+			<audio clipBegin="93426ms" clipEnd="94026ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id136">
+			<!-- was -->
+			<text src="../008.xhtml#w136"/>
+			<audio clipBegin="94026ms" clipEnd="94316ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id137">
+			<!-- still -->
+			<text src="../008.xhtml#w137"/>
+			<audio clipBegin="94316ms" clipEnd="94906ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id138">
+			<!-- sad -->
+			<text src="../008.xhtml#w138"/>
+			<audio clipBegin="94906ms" clipEnd="95616ms" src="../audio/9781484785836.m4a"/>
+		</par>
+		<par id="id138g">
+			<!--  -->
+			<text src="../008.xhtml#empty1"/>
+			<audio clipBegin="95616ms" clipEnd="96126ms" src="../audio/9781484785836.m4a"/>
+		</par>
+	</body>
+</smil>

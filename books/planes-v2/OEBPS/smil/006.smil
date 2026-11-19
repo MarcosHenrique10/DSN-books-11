@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id51g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="33887ms" clipEnd="34835ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- Chug -->
+      <text src="../006.xhtml#w51"/>
+      <audio clipBegin="34835ms" clipEnd="35500ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- the -->
+      <text src="../006.xhtml#w52"/>
+      <audio clipBegin="35500ms" clipEnd="35685ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id53">
+      <!-- fuel -->
+      <text src="../006.xhtml#w53"/>
+      <audio clipBegin="35685ms" clipEnd="35925ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- truck -->
+      <text src="../006.xhtml#w54"/>
+      <audio clipBegin="35925ms" clipEnd="36335ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- was -->
+      <text src="../006.xhtml#w55"/>
+      <audio clipBegin="36335ms" clipEnd="36505ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- Dusty's -->
+      <text src="../006.xhtml#w56"/>
+      <audio clipBegin="36505ms" clipEnd="37045ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id57">
+      <!-- BEST -->
+      <text src="../006.xhtml#w57"/>
+      <audio clipBegin="37045ms" clipEnd="37495ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id58">
+      <!-- FRIEND -->
+      <text src="../006.xhtml#w58"/>
+      <audio clipBegin="37495ms" clipEnd="38485ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id59">
+      <!-- He -->
+      <text src="../006.xhtml#w59"/>
+      <audio clipBegin="38485ms" clipEnd="38625ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id60">
+      <!-- helped -->
+      <text src="../006.xhtml#w60"/>
+      <audio clipBegin="38625ms" clipEnd="38895ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- Dusty -->
+      <text src="../006.xhtml#w61"/>
+      <audio clipBegin="38895ms" clipEnd="39355ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id62">
+      <!-- train -->
+      <text src="../006.xhtml#w62"/>
+      <audio clipBegin="39355ms" clipEnd="39705ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id63">
+      <!-- to -->
+      <text src="../006.xhtml#w63"/>
+      <audio clipBegin="39705ms" clipEnd="39805ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id64">
+      <!-- be -->
+      <text src="../006.xhtml#w64"/>
+      <audio clipBegin="39805ms" clipEnd="39925ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id65">
+      <!-- a -->
+      <text src="../006.xhtml#w65"/>
+      <audio clipBegin="39925ms" clipEnd="39985ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id66">
+      <!-- RACER -->
+      <text src="../006.xhtml#w66"/>
+      <audio clipBegin="39985ms" clipEnd="40545ms" src="../audio/9781423192268.m4a"/>
+    </par>
+    <par id="id67g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="40545ms" clipEnd="41010ms" src="../audio/9781423192268.m4a"/>
+    </par>
+  </body>
+</smil>
