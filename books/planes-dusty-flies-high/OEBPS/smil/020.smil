@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id187g">
+      <!--  -->
+      <text src="../020.xhtml#empty"/>
+      <audio clipBegin="117288ms" clipEnd="118195ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id187">
+      <!-- Ripslinger's -->
+      <text src="../020.xhtml#w187"/>
+      <audio clipBegin="118195ms" clipEnd="118975ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id188">
+      <!-- friend -->
+      <text src="../020.xhtml#w188"/>
+      <audio clipBegin="118975ms" clipEnd="119605ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id189">
+      <!-- breaks -->
+      <text src="../020.xhtml#w189"/>
+      <audio clipBegin="119605ms" clipEnd="120065ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id190">
+      <!-- Dusty's -->
+      <text src="../020.xhtml#w190"/>
+      <audio clipBegin="120065ms" clipEnd="120605ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id191">
+      <!-- antenna -->
+      <text src="../020.xhtml#w191"/>
+      <audio clipBegin="120605ms" clipEnd="121095ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id191g">
+      <!--  -->
+      <text src="../020.xhtml#empty"/>
+      <audio clipBegin="121095ms" clipEnd="121470ms" src="../audio/9781423191780.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id327g">
+      <!--  -->
+      <text src="../012.xhtml#empty"/>
+      <audio clipBegin="165002ms" clipEnd="166045ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id327">
+      <!-- The -->
+      <text src="../012.xhtml#w327"/>
+      <audio clipBegin="166045ms" clipEnd="166135ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id328">
+      <!-- boxer -->
+      <text src="../012.xhtml#w328"/>
+      <audio clipBegin="166135ms" clipEnd="166685ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id329">
+      <!-- led -->
+      <text src="../012.xhtml#w329"/>
+      <audio clipBegin="166685ms" clipEnd="166945ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id330">
+      <!-- Phineas -->
+      <text src="../012.xhtml#w330"/>
+      <audio clipBegin="166945ms" clipEnd="167395ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id331">
+      <!-- through -->
+      <text src="../012.xhtml#w331"/>
+      <audio clipBegin="167395ms" clipEnd="167555ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id332">
+      <!-- a -->
+      <text src="../012.xhtml#w332"/>
+      <audio clipBegin="167555ms" clipEnd="167605ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id333">
+      <!-- series -->
+      <text src="../012.xhtml#w333"/>
+      <audio clipBegin="167605ms" clipEnd="168065ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id334">
+      <!-- of -->
+      <text src="../012.xhtml#w334"/>
+      <audio clipBegin="168065ms" clipEnd="168145ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id335">
+      <!-- exercises -->
+      <text src="../012.xhtml#w335"/>
+      <audio clipBegin="168145ms" clipEnd="169525ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id336">
+      <!-- First -->
+      <text src="../012.xhtml#w336"/>
+      <audio clipBegin="169525ms" clipEnd="170165ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id337">
+      <!-- Phineas -->
+      <text src="../012.xhtml#w337"/>
+      <audio clipBegin="170165ms" clipEnd="170505ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id338">
+      <!-- warmed -->
+      <text src="../012.xhtml#w338"/>
+      <audio clipBegin="170505ms" clipEnd="170895ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id339">
+      <!-- up -->
+      <text src="../012.xhtml#w339"/>
+      <audio clipBegin="170895ms" clipEnd="171215ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id340">
+      <!-- by -->
+      <text src="../012.xhtml#w340"/>
+      <audio clipBegin="171215ms" clipEnd="171365ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id341">
+      <!-- practicing -->
+      <text src="../012.xhtml#w341"/>
+      <audio clipBegin="171365ms" clipEnd="171995ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id342">
+      <!-- some -->
+      <text src="../012.xhtml#w342"/>
+      <audio clipBegin="171995ms" clipEnd="172275ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id343">
+      <!-- fancy -->
+      <text src="../012.xhtml#w343"/>
+      <audio clipBegin="172275ms" clipEnd="172705ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id344">
+      <!-- footwork -->
+      <text src="../012.xhtml#w344"/>
+      <audio clipBegin="172705ms" clipEnd="173305ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id344g">
+      <!--  -->
+      <text src="../012.xhtml#empty1"/>
+      <audio clipBegin="173305ms" clipEnd="173650ms" src="../audio/9781484751060.m4a"/>
+    </par>
+  </body>
+</smil>

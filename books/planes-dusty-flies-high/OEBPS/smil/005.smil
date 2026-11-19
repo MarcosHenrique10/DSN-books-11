@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id23g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="25595ms" clipEnd="25995ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- Dusty's -->
+      <text src="../005.xhtml#w23"/>
+      <audio clipBegin="25995ms" clipEnd="26455ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- friend -->
+      <text src="../005.xhtml#w24"/>
+      <audio clipBegin="26455ms" clipEnd="26755ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- Chug -->
+      <text src="../005.xhtml#w25"/>
+      <audio clipBegin="26755ms" clipEnd="27455ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- helps -->
+      <text src="../005.xhtml#w26"/>
+      <audio clipBegin="27455ms" clipEnd="27755ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- him -->
+      <text src="../005.xhtml#w27"/>
+      <audio clipBegin="27755ms" clipEnd="27855ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- from -->
+      <text src="../005.xhtml#w28"/>
+      <audio clipBegin="27855ms" clipEnd="28045ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- below -->
+      <text src="../005.xhtml#w29"/>
+      <audio clipBegin="28045ms" clipEnd="28445ms" src="../audio/9781423191780.m4a"/>
+    </par>
+    <par id="id29g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="28445ms" clipEnd="29301ms" src="../audio/9781423191780.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1314g">
+      <!--  -->
+      <text src="../046.xhtml#empty"/>
+      <audio clipBegin="632641ms" clipEnd="633655ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1314">
+      <!-- and -->
+      <text src="../046.xhtml#w1314"/>
+      <audio clipBegin="633655ms" clipEnd="633965ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1315">
+      <!-- right -->
+      <text src="../046.xhtml#w1315"/>
+      <audio clipBegin="633965ms" clipEnd="634485ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1316">
+      <!-- into -->
+      <text src="../046.xhtml#w1316"/>
+      <audio clipBegin="634485ms" clipEnd="634795ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1317">
+      <!-- Phineas -->
+      <text src="../046.xhtml#w1317"/>
+      <audio clipBegin="634795ms" clipEnd="635305ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1318">
+      <!-- and -->
+      <text src="../046.xhtml#w1318"/>
+      <audio clipBegin="635305ms" clipEnd="635475ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1319">
+      <!-- Ferb's -->
+      <text src="../046.xhtml#w1319"/>
+      <audio clipBegin="635475ms" clipEnd="635925ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1320">
+      <!-- backyard -->
+      <text src="../046.xhtml#w1320"/>
+      <audio clipBegin="635925ms" clipEnd="637485ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1321">
+      <!-- The -->
+      <text src="../046.xhtml#w1321"/>
+      <audio clipBegin="637485ms" clipEnd="637745ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1322">
+      <!-- alien -->
+      <text src="../046.xhtml#w1322"/>
+      <audio clipBegin="637745ms" clipEnd="638125ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1323">
+      <!-- launchpad -->
+      <text src="../046.xhtml#w1323"/>
+      <audio clipBegin="638125ms" clipEnd="638895ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1324">
+      <!-- shrunk -->
+      <text src="../046.xhtml#w1324"/>
+      <audio clipBegin="638895ms" clipEnd="639735ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1325">
+      <!-- into -->
+      <text src="../046.xhtml#w1325"/>
+      <audio clipBegin="639735ms" clipEnd="639955ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1326">
+      <!-- a -->
+      <text src="../046.xhtml#w1326"/>
+      <audio clipBegin="639955ms" clipEnd="640045ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1327">
+      <!-- tiny -->
+      <text src="../046.xhtml#w1327"/>
+      <audio clipBegin="640045ms" clipEnd="640525ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1328">
+      <!-- box -->
+      <text src="../046.xhtml#w1328"/>
+      <audio clipBegin="640525ms" clipEnd="641895ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1329">
+      <!-- It -->
+      <text src="../046.xhtml#w1329"/>
+      <audio clipBegin="641895ms" clipEnd="642055ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1330">
+      <!-- folds -->
+      <text src="../046.xhtml#w1330"/>
+      <audio clipBegin="642055ms" clipEnd="642425ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1331">
+      <!-- up -->
+      <text src="../046.xhtml#w1331"/>
+      <audio clipBegin="642425ms" clipEnd="642705ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1332">
+      <!-- for -->
+      <text src="../046.xhtml#w1332"/>
+      <audio clipBegin="642705ms" clipEnd="642915ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1333">
+      <!-- easy -->
+      <text src="../046.xhtml#w1333"/>
+      <audio clipBegin="642915ms" clipEnd="643305ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1334">
+      <!-- storage -->
+      <text src="../046.xhtml#w1334"/>
+      <audio clipBegin="643305ms" clipEnd="644255ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1335">
+      <!-- said -->
+      <text src="../046.xhtml#w1335"/>
+      <audio clipBegin="644255ms" clipEnd="644495ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1336">
+      <!-- Phineas -->
+      <text src="../046.xhtml#w1336"/>
+      <audio clipBegin="644495ms" clipEnd="645315ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1337">
+      <!-- Cool -->
+      <text src="../046.xhtml#w1337"/>
+      <audio clipBegin="645315ms" clipEnd="645895ms" src="../audio/9781484751091.m4a"/>
+    </par>
+    <par id="id1337g">
+      <!--  -->
+      <text src="../046.xhtml#empty1"/>
+      <audio clipBegin="645895ms" clipEnd="646450ms" src="../audio/9781484751091.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="19954ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="19954ms" clipEnd="20274ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="20274ms" clipEnd="20484ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- BOBS -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="20484ms" clipEnd="20984ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- GANNAWAY -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="20984ms" clipEnd="22134ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="22134ms" clipEnd="22774ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="22774ms" clipEnd="22994ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- ARTURO -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="22994ms" clipEnd="23574ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- HERNANDEZ -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="23574ms" clipEnd="24714ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Designed -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="24714ms" clipEnd="25324ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="25324ms" clipEnd="25554ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- TONY -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="25554ms" clipEnd="25904ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- FEJERAN -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="25904ms" clipEnd="26434ms" src="../audio/9781484712214.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="26434ms" clipEnd="26663ms" src="../audio/9781484712214.m4a"/>
+    </par>
+  </body>
+</smil>

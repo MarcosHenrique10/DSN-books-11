@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id218g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="113570ms" clipEnd="113955ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id218">
+      <!-- Buford -->
+      <text src="../009.xhtml#w218"/>
+      <audio clipBegin="113955ms" clipEnd="114355ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id219">
+      <!-- grabbed -->
+      <text src="../009.xhtml#w219"/>
+      <audio clipBegin="114355ms" clipEnd="114985ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id220">
+      <!-- Phineas -->
+      <text src="../009.xhtml#w220"/>
+      <audio clipBegin="114985ms" clipEnd="115385ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id221">
+      <!-- by -->
+      <text src="../009.xhtml#w221"/>
+      <audio clipBegin="115385ms" clipEnd="115575ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id222">
+      <!-- his -->
+      <text src="../009.xhtml#w222"/>
+      <audio clipBegin="115575ms" clipEnd="115725ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id223">
+      <!-- shirt -->
+      <text src="../009.xhtml#w223"/>
+      <audio clipBegin="115725ms" clipEnd="116875ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id224">
+      <!-- This -->
+      <text src="../009.xhtml#w224"/>
+      <audio clipBegin="116875ms" clipEnd="117655ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id225">
+      <!-- is -->
+      <text src="../009.xhtml#w225"/>
+      <audio clipBegin="117655ms" clipEnd="117905ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id226">
+      <!-- going -->
+      <text src="../009.xhtml#w226"/>
+      <audio clipBegin="117905ms" clipEnd="118315ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id227">
+      <!-- to -->
+      <text src="../009.xhtml#w227"/>
+      <audio clipBegin="118315ms" clipEnd="118435ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id228">
+      <!-- hurt -->
+      <text src="../009.xhtml#w228"/>
+      <audio clipBegin="118435ms" clipEnd="119205ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id229">
+      <!-- he -->
+      <text src="../009.xhtml#w229"/>
+      <audio clipBegin="119205ms" clipEnd="119335ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id230">
+      <!-- growled -->
+      <text src="../009.xhtml#w230"/>
+      <audio clipBegin="119335ms" clipEnd="120615ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id231">
+      <!-- Phineas -->
+      <text src="../009.xhtml#w231"/>
+      <audio clipBegin="120615ms" clipEnd="121055ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id232">
+      <!-- gulped -->
+      <text src="../009.xhtml#w232"/>
+      <audio clipBegin="121055ms" clipEnd="122065ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id233">
+      <!-- Buford -->
+      <text src="../009.xhtml#w233"/>
+      <audio clipBegin="122065ms" clipEnd="122555ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id234">
+      <!-- was -->
+      <text src="../009.xhtml#w234"/>
+      <audio clipBegin="122555ms" clipEnd="122975ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id235">
+      <!-- really -->
+      <text src="../009.xhtml#w235"/>
+      <audio clipBegin="122975ms" clipEnd="123315ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id236">
+      <!-- angry -->
+      <text src="../009.xhtml#w236"/>
+      <audio clipBegin="123315ms" clipEnd="123805ms" src="../audio/9781484751060.m4a"/>
+    </par>
+    <par id="id236g">
+      <!--  -->
+      <text src="../009.xhtml#empty1"/>
+      <audio clipBegin="123805ms" clipEnd="124703ms" src="../audio/9781484751060.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,276 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+/* body, html { background-color: #999; } */
+
+@font-face {
+	font-family:"stencil-regular";
+	src: url(../fonts/Stencil.otf);
+}
+@font-face {
+	font-family:"american-captain-regular";
+	src: url(../fonts/AmericanCaptain.otf);
+}
+@font-face {
+	font-family:"coldharbour-gothic-regular";
+	src: url(../fonts/ColdharbourGothic.otf);
+}
+@font-face {
+	font-family:"firehouse-regular";
+	src: url(../fonts/Firehouse.otf);
+}
+@font-face {
+	font-family:"helvetica-neue-condensed-black";
+	src: url(../fonts/HelveticaNeueCondensedBlack.otf);
+}
+@font-face {
+	font-family:"helvetica-neue-condensed-bold";
+	src: url(../fonts/HelveticaNeueCondensedBold.otf);
+}
+@font-face {
+	font-family:"niveau-grotesk-medium";
+	src: url(../fonts/NiveauGroteskMedium.otf);
+}
+@font-face {
+	font-family:"niveau-grotesk-bold";
+	src: url(../fonts/NiveauGroteskBold.otf);
+}
+@font-face {
+	font-family:"jiffy-italic";
+	src: url(../fonts/JiffyItalic.otf);
+}
+@font-face {
+	font-family:"paintbrush-font";
+	src: url(../fonts/PaintbrushFont.otf);
+}
+@font-face {
+	font-family:"arial-bold";
+	src: url(../fonts/Arial.otf);
+}
+.font-1 {
+	font-family:"niveau-grotesk-medium";
+	font-size:9px;
+	line-height:12px;
+}
+.font-2 {
+	font-family:"arial-bold";
+	font-size:8px;
+	line-height:12px;
+}
+.font-3 {
+	font-family:"niveau-grotesk-medium";
+	font-size:9px;
+	line-height:18px;
+}
+.font-4 {
+	font-family:"niveau-grotesk-medium";
+	font-size:13px;
+	line-height:27px;
+}
+.font-5 {
+	font-family:"american-captain-regular";
+	font-size:18px;
+	line-height:20px;
+}
+.font-6 {
+	font-family:"coldharbour-gothic-regular";
+	font-size:20px;
+	line-height:22px;
+}
+.font-7 {
+	font-family:"niveau-grotesk-medium";
+	font-size:13px;
+	line-height:22px;
+}
+.font-8 {
+	font-family:"american-captain-regular";
+	font-size:54px;
+	line-height:27px;
+}
+.font-9 {
+	font-family:"niveau-grotesk-medium";
+	font-size:21px;
+	line-height:27px;
+}
+.font-10 {
+	font-family:"niveau-grotesk-medium";
+	font-size:21px;
+	line-height:30px;
+}
+.font-11 {
+	font-family:"jiffy-italic";
+	font-size:42px;
+	line-height:30px;
+}
+.font-12 {
+	font-family:"niveau-grotesk-medium";
+	font-size:21px;
+}
+.font-13 {
+	font-family:"american-captain-regular";
+	font-size:27px;
+	line-height:27px;
+}
+.font-14 {
+	font-family:"niveau-grotesk-medium";
+	font-size:35px;
+	line-height:35px;
+}
+.font-15 {
+	font-family:"firehouse-regular";
+	font-size:35px;
+	line-height:31px;
+}
+.font-16 {
+	font-family:"niveau-grotesk-medium";
+	font-size:35px;
+	line-height:27px;
+}
+.font-17 {
+	font-family:"paintbrush-font";
+	font-size:29px;
+	line-height:27px;
+}
+.font-18 {
+	font-family:"niveau-grotesk-bold";
+	font-size:26px;
+}
+.font-19 {
+	font-family:"stencil-regular";
+	font-size:24px;
+}
+.font-20 {
+	font-family:"niveau-grotesk-medium";
+	font-size:21px;
+	line-height:41px;
+}
+.font-21 {
+	font-family:"niveau-grotesk-medium";
+	font-size:24px;
+	line-height:41px;
+}
+.font-22 {
+	font-family:"american-captain-regular";
+	font-size:27px;
+}
+.font-23 {
+	font-family:"niveau-grotesk-medium";
+	font-size:27px;
+}
+.font-24 {
+	font-family:"stencil-regular";
+	font-size:24px;
+	line-height:27px;
+}
+.font-25 {
+	font-family:"stencil-regular";
+	font-size:23px;
+	line-height:27px;
+}
+.font-26 {
+	font-family:"niveau-grotesk-medium";
+	font-size:24px;
+}
+.font-27 {
+	font-family:"helvetica-neue-condensed-bold";
+	font-size:27px;
+	line-height:27px;
+}
+.font-28 {
+	font-family:"niveau-grotesk-medium";
+	font-size:21px;
+	line-height:26px;
+}
+.font-29 {
+	font-family:"helvetica-neue-condensed-bold";
+	font-size:27px;
+	line-height:26px;
+}
+.font-30 {
+	font-family:"niveau-grotesk-medium";
+	font-size:21px;
+	line-height:29px;
+}
+.font-31 {
+	font-family:"coldharbour-gothic-regular";
+	font-size:27px;
+	line-height:27px;
+}
+.font-32 {
+	font-family:"helvetica-neue-condensed-black";
+	font-size:27px;
+	line-height:27px;
+}
+.font-33 {
+	font-family:"helvetica-neue-condensed-bold";
+	font-size:27px;
+}
+.font-34 {
+	font-family:"firehouse-regular";
+	font-size:35px;
+}
+.font-35 {
+	font-family:"helvetica-neue-condensed-bold";
+	font-size:27px;
+	line-height:30px;
+}
+.font-36 {
+	font-family:"jiffy-italic";
+	font-size:42px;
+	line-height:29px;
+}
+.font-37 {
+	font-family:"coldharbour-gothic-regular";
+	font-size:27px;
+}
+.font-38 {
+	font-family:"coldharbour-gothic-regular";
+	font-size:27px;
+	line-height:32px;
+}
+.font-39 {
+	font-family:"stencil-regular";
+	font-size:24px;
+	line-height:32px;
+}
+.font-40 {
+	font-family:"niveau-grotesk-medium";
+	font-size:24px;
+	line-height:32px;
+}
+.font-41 {
+	font-family:"firehouse-regular";
+	font-size:33px;
+	line-height:26px;
+}
+.font-42 {
+	font-family:"niveau-grotesk-medium";
+	font-size:21px;
+	line-height:24px;
+}
+.font-43 {
+	font-family:"firehouse-regular";
+	font-size:33px;
+	line-height:24px;
+}
+.font-44 {
+	font-family:"american-captain-regular";
+	font-size:27px;
+	line-height:29px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:891px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:891px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:891px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/
