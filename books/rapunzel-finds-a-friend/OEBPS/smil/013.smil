@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id133g">
+			<!--  -->
+			<text src="../013.xhtml#empty"/>
+			<audio clipBegin="84450ms" clipEnd="85050ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id133">
+			<!-- Finally -->
+			<text src="../013.xhtml#w133"/>
+			<audio clipBegin="85050ms" clipEnd="86230ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id134">
+			<!-- Rapunzel -->
+			<text src="../013.xhtml#w134"/>
+			<audio clipBegin="86230ms" clipEnd="86840ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id135">
+			<!-- tried -->
+			<text src="../013.xhtml#w135"/>
+			<audio clipBegin="86840ms" clipEnd="87230ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id136">
+			<!-- gardening -->
+			<text src="../013.xhtml#w136"/>
+			<audio clipBegin="87230ms" clipEnd="88070ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id136g">
+			<!--  -->
+			<text src="../013.xhtml#empty"/>
+			<audio clipBegin="88070ms" clipEnd="89145ms" src="../audio/9781484729649.m4a"/>
+		</par>
+	</body>
+</smil>

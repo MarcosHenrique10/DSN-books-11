@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="10370ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- RAPUNZEL -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="10370ms" clipEnd="11020ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Finds -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="11020ms" clipEnd="11460ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- a -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="11460ms" clipEnd="11510ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Friend -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="11510ms" clipEnd="12850ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- By -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="12850ms" clipEnd="13110ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- ELLA -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="13110ms" clipEnd="13340ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- PATRICK -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="13340ms" clipEnd="14790ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="14790ms" clipEnd="15450ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="15450ms" clipEnd="15650ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- JEFFREY -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="15650ms" clipEnd="16070ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- THOMAS -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="16070ms" clipEnd="16660ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id11g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="16660ms" clipEnd="17535ms" src="../audio/9781484729649.m4a"/>
+		</par>
+	</body>
+</smil>

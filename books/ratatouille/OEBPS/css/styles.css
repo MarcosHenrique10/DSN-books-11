@@ -1,0 +1,168 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"adobe-garamond-regular";
+	src: url(../fonts/AGaramond-Regular.otf);
+}
+@font-face {
+	font-family:"adobe-garamond-italic";
+	src: url(../fonts/AGaramond-Italic.otf);
+}
+@font-face {
+	font-family:"fontesque-bold";
+	src: url(../fonts/Fontesque-Bold.otf);
+}
+@font-face {
+	font-family:"fontesque-medium";
+	src: url(../fonts/Fontesque.otf);
+}
+@font-face {
+	font-family:"apple-chancery";
+	src: url(../fonts/BemboSemiboldItalic.otf);
+}
+.font-1 {
+	font-family:"fontesque-medium";
+	font-size:14px;
+	line-height:17px;
+}
+.font-2 {
+	font-family:"adobe-garamond-regular";
+	font-size:11px;
+	line-height:14px;
+}
+.font-3 {
+	font-family:"arial-regular";
+	font-size:11px;
+	line-height:14px;
+}
+.font-4 {
+	font-family:"adobe-garamond-regular";
+	font-size:11px;
+	line-height:8px;
+}
+.font-5 {
+	font-family:"fontesque-medium";
+	font-size:17px;
+}
+.font-6 {
+	font-family:"fontesque-bold";
+	font-size:20px;
+	line-height:20px;
+}
+.font-6a {
+	font-family:"apple-chancery";
+	font-size:19px;
+}
+.font-7 {
+	font-family:"fontesque-bold";
+	font-size:17px;
+	line-height:23px;
+}
+.font-8 {
+	font-family:"fontesque-medium";
+	font-size:14px;
+	line-height:23px;
+}
+.font-9 {
+	font-family:"fontesque-bold";
+	font-size:38px;
+	line-height:33px;
+}
+.font-10 {
+	font-family:"fontesque-bold";
+	font-size:60px;
+}
+.font-11 {
+	font-family:"adobe-garamond-regular";
+	font-size:38px;
+	line-height:33px;
+}
+.font-12 {
+	font-family:"adobe-garamond-regular";
+	font-size:27px;
+	line-height:33px;
+}
+.font-13 {
+	font-family:"fontesque-bold";
+	font-size:42px;
+	line-height:45px;
+}
+.font-14 {
+	font-family:"fontesque-bold";
+	font-size:45px;
+	line-height:45px;
+}
+.font-15 {
+	font-family:"adobe-garamond-regular";
+	font-size:27px;
+	line-height:45px;
+}
+.font-16 {
+	font-family:"adobe-garamond-italic";
+	font-size:27px;
+	line-height:33px;
+}
+.font-17 {
+	font-family:"fontesque-bold";
+	font-size:30px;
+	line-height:33px;
+}
+.font-18 {
+	font-family:"fontesque-bold";
+	font-size:30px;
+}
+.font-19 {
+	font-family:"fontesque-bold";
+	font-size:42px;
+	line-height:33px;
+}
+.font-20 {
+	font-family:"fontesque-bold";
+	font-size:45px;
+	line-height:33px;
+}
+.font-21 {
+	font-family:"fontesque-bold";
+	font-size:45px;
+}
+.font-22 {
+	font-family:"adobe-garamond-regular";
+	font-size:27px;
+	line-height:36px;
+}
+.font-23 {
+	font-family:"adobe-garamond-regular";
+	font-size:27px;
+	line-height:51px;
+}
+.font-24 {
+	font-family:"adobe-garamond-regular";
+	font-size:27px;
+	line-height:39px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+tspan.media-overlay-active { fill: #f00 !important; }
+.page, .page img { width:738px; height:891px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:891px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:891px; position:relative; background-size:100% 100% !important; left:25%; }
+/* span { color:#f6f !important; } */
+.credit-spacer { padding-top: 1.5em; }
+.credit-spacer2 { padding-top: 1.0em; }
+img#orpinas { height: 0.75em; width: auto; }
+p.special-highlight span.media-overlay-active { color: #ffc000 !important; }

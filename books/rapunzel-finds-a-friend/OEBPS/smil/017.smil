@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id207g">
+			<!--  -->
+			<text src="../017.xhtml#empty"/>
+			<audio clipBegin="125900ms" clipEnd="126500ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id207">
+			<!-- When -->
+			<text src="../017.xhtml#w207"/>
+			<audio clipBegin="126500ms" clipEnd="126680ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id208">
+			<!-- the -->
+			<text src="../017.xhtml#w208"/>
+			<audio clipBegin="126680ms" clipEnd="126840ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id209">
+			<!-- prints -->
+			<text src="../017.xhtml#w209"/>
+			<audio clipBegin="126840ms" clipEnd="127240ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id210">
+			<!-- appeared -->
+			<text src="../017.xhtml#w210"/>
+			<audio clipBegin="127240ms" clipEnd="127900ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id211">
+			<!-- in -->
+			<text src="../017.xhtml#w211"/>
+			<audio clipBegin="127900ms" clipEnd="128010ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id212">
+			<!-- her -->
+			<text src="../017.xhtml#w212"/>
+			<audio clipBegin="128010ms" clipEnd="128160ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id213">
+			<!-- flour -->
+			<text src="../017.xhtml#w213"/>
+			<audio clipBegin="128160ms" clipEnd="129130ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id214">
+			<!-- Rapunzel -->
+			<text src="../017.xhtml#w214"/>
+			<audio clipBegin="129130ms" clipEnd="129700ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id215">
+			<!-- knew -->
+			<text src="../017.xhtml#w215"/>
+			<audio clipBegin="129700ms" clipEnd="129970ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id216">
+			<!-- SOMETHING -->
+			<text src="../017.xhtml#w216"/>
+			<audio clipBegin="129970ms" clipEnd="130660ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id217">
+			<!-- was -->
+			<text src="../017.xhtml#w217"/>
+			<audio clipBegin="130660ms" clipEnd="130990ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id218">
+			<!-- up -->
+			<text src="../017.xhtml#w218"/>
+			<audio clipBegin="130990ms" clipEnd="132370ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id219">
+			<!-- This -->
+			<text src="../017.xhtml#w219"/>
+			<audio clipBegin="132370ms" clipEnd="132590ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id220">
+			<!-- is -->
+			<text src="../017.xhtml#w220"/>
+			<audio clipBegin="132590ms" clipEnd="132720ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id221">
+			<!-- a -->
+			<text src="../017.xhtml#w221"/>
+			<audio clipBegin="132720ms" clipEnd="132850ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id222">
+			<!-- MYSTERY -->
+			<text src="../017.xhtml#w222"/>
+			<audio clipBegin="132850ms" clipEnd="134260ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id223">
+			<!-- she -->
+			<text src="../017.xhtml#w223"/>
+			<audio clipBegin="134260ms" clipEnd="134500ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id224">
+			<!-- said -->
+			<text src="../017.xhtml#w224"/>
+			<audio clipBegin="134500ms" clipEnd="135480ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id225">
+			<!-- I -->
+			<text src="../017.xhtml#w225"/>
+			<audio clipBegin="135480ms" clipEnd="135620ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id226">
+			<!-- LOVE -->
+			<text src="../017.xhtml#w226"/>
+			<audio clipBegin="135620ms" clipEnd="136100ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id227">
+			<!-- MYSTERIES -->
+			<text src="../017.xhtml#w227"/>
+			<audio clipBegin="136100ms" clipEnd="136990ms" src="../audio/9781484729649.m4a"/>
+		</par>
+		<par id="id227g">
+			<!--  -->
+			<text src="../017.xhtml#empty"/>
+			<audio clipBegin="136990ms" clipEnd="138020ms" src="../audio/9781484729649.m4a"/>
+		</par>
+	</body>
+</smil>

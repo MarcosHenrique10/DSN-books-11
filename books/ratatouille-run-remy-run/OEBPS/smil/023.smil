@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id138g">
+      <!--  -->
+      <text src="../023.xhtml#empty"/>
+      <audio clipBegin="102382ms" clipEnd="102842ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id138">
+      <!-- The -->
+      <text src="../023.xhtml#w138"/>
+      <audio clipBegin="102842ms" clipEnd="102992ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id139">
+      <!-- boy -->
+      <text src="../023.xhtml#w139"/>
+      <audio clipBegin="102992ms" clipEnd="103482ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id140">
+      <!-- tastes -->
+      <text src="../023.xhtml#w140"/>
+      <audio clipBegin="103482ms" clipEnd="103822ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id141">
+      <!-- the -->
+      <text src="../023.xhtml#w141"/>
+      <audio clipBegin="103822ms" clipEnd="103922ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id142">
+      <!-- soup -->
+      <text src="../023.xhtml#w142"/>
+      <audio clipBegin="103922ms" clipEnd="105562ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id143">
+      <!-- Yuck -->
+      <text src="../023.xhtml#w143"/>
+      <audio clipBegin="105562ms" clipEnd="106592ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id143g">
+      <!--  -->
+      <text src="../023.xhtml#empty1"/>
+      <audio clipBegin="106592ms" clipEnd="107338ms" src="../audio/9781484751992.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14582ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Ratatouille -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14582ms" clipEnd="16012ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Run -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16012ms" clipEnd="16392ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Remy -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16392ms" clipEnd="16852ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Run -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16852ms" clipEnd="17872ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- By -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17872ms" clipEnd="18132ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Kitty -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="18132ms" clipEnd="18492ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Richards -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="18492ms" clipEnd="19752ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19752ms" clipEnd="20402ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="20402ms" clipEnd="20582ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- the -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="20582ms" clipEnd="20692ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Disney -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="20692ms" clipEnd="21082ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="21082ms" clipEnd="21672ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Artists -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="21672ms" clipEnd="22342ms" src="../audio/9781484751992.m4a"/>
+    </par>
+    <par id="id13g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="22342ms" clipEnd="23340ms" src="../audio/9781484751992.m4a"/>
+    </par>
+  </body>
+</smil>
