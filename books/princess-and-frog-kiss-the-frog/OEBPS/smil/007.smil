@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id53g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="42430ms" clipEnd="42925ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id53">
+      <!-- He -->
+      <text src="../007.xhtml#w53"/>
+      <audio clipBegin="42925ms" clipEnd="43145ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- loves -->
+      <text src="../007.xhtml#w54"/>
+      <audio clipBegin="43145ms" clipEnd="43845ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- music -->
+      <text src="../007.xhtml#w55"/>
+      <audio clipBegin="43845ms" clipEnd="45195ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- He -->
+      <text src="../007.xhtml#w56"/>
+      <audio clipBegin="45195ms" clipEnd="45385ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id57">
+      <!-- visits -->
+      <text src="../007.xhtml#w57"/>
+      <audio clipBegin="45385ms" clipEnd="45925ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id58">
+      <!-- New -->
+      <text src="../007.xhtml#w58"/>
+      <audio clipBegin="45925ms" clipEnd="46125ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id59">
+      <!-- Orleans -->
+      <text src="../007.xhtml#w59"/>
+      <audio clipBegin="46125ms" clipEnd="46815ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id59g">
+      <!--  -->
+      <text src="../007.xhtml#empty1"/>
+      <audio clipBegin="46815ms" clipEnd="47830ms" src="../audio/9781484750513.m4a"/>
+    </par>
+  </body>
+</smil>

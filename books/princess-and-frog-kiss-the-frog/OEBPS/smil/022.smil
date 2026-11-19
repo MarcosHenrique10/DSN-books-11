@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id209g">
+      <!--  -->
+      <text src="../022.xhtml#empty"/>
+      <audio clipBegin="143985ms" clipEnd="145025ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id209">
+      <!-- Tiana -->
+      <text src="../022.xhtml#w209"/>
+      <audio clipBegin="145025ms" clipEnd="145745ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id210">
+      <!-- and -->
+      <text src="../022.xhtml#w210"/>
+      <audio clipBegin="145745ms" clipEnd="146055ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id211">
+      <!-- Naveen -->
+      <text src="../022.xhtml#w211"/>
+      <audio clipBegin="146055ms" clipEnd="146805ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id212">
+      <!-- find -->
+      <text src="../022.xhtml#w212"/>
+      <audio clipBegin="146805ms" clipEnd="147165ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id213">
+      <!-- Mama -->
+      <text src="../022.xhtml#w213"/>
+      <audio clipBegin="147165ms" clipEnd="147675ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id214">
+      <!-- Odie -->
+      <text src="../022.xhtml#w214"/>
+      <audio clipBegin="147675ms" clipEnd="148105ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id214g">
+      <!--  -->
+      <text src="../022.xhtml#empty1"/>
+      <audio clipBegin="148105ms" clipEnd="148835ms" src="../audio/9781484750513.m4a"/>
+    </par>
+  </body>
+</smil>

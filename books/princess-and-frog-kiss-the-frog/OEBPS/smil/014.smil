@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id121g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="88854ms" clipEnd="89115ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id121">
+      <!-- Tiana -->
+      <text src="../014.xhtml#w121"/>
+      <audio clipBegin="89115ms" clipEnd="89825ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id122">
+      <!-- kisses -->
+      <text src="../014.xhtml#w122"/>
+      <audio clipBegin="89825ms" clipEnd="90385ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id123">
+      <!-- Naveen -->
+      <text src="../014.xhtml#w123"/>
+      <audio clipBegin="90385ms" clipEnd="91865ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id124">
+      <!-- But -->
+      <text src="../014.xhtml#w124"/>
+      <audio clipBegin="91865ms" clipEnd="92075ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id125">
+      <!-- she -->
+      <text src="../014.xhtml#w125"/>
+      <audio clipBegin="92075ms" clipEnd="92405ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id126">
+      <!-- is -->
+      <text src="../014.xhtml#w126"/>
+      <audio clipBegin="92405ms" clipEnd="92585ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id127">
+      <!-- not -->
+      <text src="../014.xhtml#w127"/>
+      <audio clipBegin="92585ms" clipEnd="93395ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id128">
+      <!-- a -->
+      <text src="../014.xhtml#w128"/>
+      <audio clipBegin="93395ms" clipEnd="93505ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id129">
+      <!-- real -->
+      <text src="../014.xhtml#w129"/>
+      <audio clipBegin="93505ms" clipEnd="94005ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id130">
+      <!-- princess -->
+      <text src="../014.xhtml#w130"/>
+      <audio clipBegin="94005ms" clipEnd="94845ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id130g">
+      <!--  -->
+      <text src="../014.xhtml#empty1"/>
+      <audio clipBegin="94845ms" clipEnd="95440ms" src="../audio/9781484750513.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id97g">
+			<!--  -->
+			<text src="../011.xhtml#empty"/>
+			<audio clipBegin="49275ms" clipEnd="49695ms" src="../audio/9781368017138.m4a"/>
+		</par>
+		<par id="id97">
+			<!-- Antarctica -->
+			<text src="../011.xhtml#w97"/>
+			<audio clipBegin="49695ms" clipEnd="50665ms" src="../audio/9781368017138.m4a"/>
+		</par>
+		<par id="id98">
+			<!-- has -->
+			<text src="../011.xhtml#w98"/>
+			<audio clipBegin="50665ms" clipEnd="50975ms" src="../audio/9781368017138.m4a"/>
+		</par>
+		<par id="id99">
+			<!-- lots -->
+			<text src="../011.xhtml#w99"/>
+			<audio clipBegin="50975ms" clipEnd="51475ms" src="../audio/9781368017138.m4a"/>
+		</par>
+		<par id="id100">
+			<!-- of -->
+			<text src="../011.xhtml#w100"/>
+			<audio clipBegin="51475ms" clipEnd="51605ms" src="../audio/9781368017138.m4a"/>
+		</par>
+		<par id="id101">
+			<!-- ice -->
+			<text src="../011.xhtml#w101"/>
+			<audio clipBegin="51605ms" clipEnd="52065ms" src="../audio/9781368017138.m4a"/>
+		</par>
+		<par id="id101g">
+			<!--  -->
+			<text src="../011.xhtml#empty"/>
+			<audio clipBegin="52065ms" clipEnd="52860ms" src="../audio/9781368017138.m4a"/>
+		</par>
+	</body>
+</smil>

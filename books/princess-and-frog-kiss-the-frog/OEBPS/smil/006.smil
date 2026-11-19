@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id47g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="38445ms" clipEnd="39455ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- Prince -->
+      <text src="../006.xhtml#w47"/>
+      <audio clipBegin="39455ms" clipEnd="39855ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- Naveen -->
+      <text src="../006.xhtml#w48"/>
+      <audio clipBegin="39855ms" clipEnd="40455ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- likes -->
+      <text src="../006.xhtml#w49"/>
+      <audio clipBegin="40455ms" clipEnd="40895ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- to -->
+      <text src="../006.xhtml#w50"/>
+      <audio clipBegin="40895ms" clipEnd="41075ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- have -->
+      <text src="../006.xhtml#w51"/>
+      <audio clipBegin="41075ms" clipEnd="41405ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- fun -->
+      <text src="../006.xhtml#w52"/>
+      <audio clipBegin="41405ms" clipEnd="41935ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id52g">
+      <!--  -->
+      <text src="../006.xhtml#empty1"/>
+      <audio clipBegin="41935ms" clipEnd="42430ms" src="../audio/9781484750513.m4a"/>
+    </par>
+  </body>
+</smil>

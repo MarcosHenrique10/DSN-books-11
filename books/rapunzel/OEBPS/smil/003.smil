@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="100ms" clipEnd="8745ms" src="../audio/9781484752265.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Rapunzel's -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="8745ms" clipEnd="9505ms" src="../audio/9781484752265.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Story -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="9505ms" clipEnd="9945ms" src="../audio/9781484752265.m4a"/>
+		</par>
+		<par id="id2g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="9945ms" clipEnd="10217ms" src="../audio/9781484752265.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id70g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="54585ms" clipEnd="55185ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id70">
+      <!-- Facilier -->
+      <text src="../009.xhtml#w70"/>
+      <audio clipBegin="55185ms" clipEnd="55945ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id71">
+      <!-- uses -->
+      <text src="../009.xhtml#w71"/>
+      <audio clipBegin="55945ms" clipEnd="56625ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id72">
+      <!-- bad -->
+      <text src="../009.xhtml#w72"/>
+      <audio clipBegin="56625ms" clipEnd="57015ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id73">
+      <!-- magic -->
+      <text src="../009.xhtml#w73"/>
+      <audio clipBegin="57015ms" clipEnd="58475ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id74">
+      <!-- He -->
+      <text src="../009.xhtml#w74"/>
+      <audio clipBegin="58475ms" clipEnd="58695ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id75">
+      <!-- turns -->
+      <text src="../009.xhtml#w75"/>
+      <audio clipBegin="58695ms" clipEnd="59385ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id76">
+      <!-- Prince -->
+      <text src="../009.xhtml#w76"/>
+      <audio clipBegin="59385ms" clipEnd="59825ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id77">
+      <!-- Naveen -->
+      <text src="../009.xhtml#w77"/>
+      <audio clipBegin="59825ms" clipEnd="60685ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id78">
+      <!-- into -->
+      <text src="../009.xhtml#w78"/>
+      <audio clipBegin="60685ms" clipEnd="61055ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id79">
+      <!-- a -->
+      <text src="../009.xhtml#w79"/>
+      <audio clipBegin="61055ms" clipEnd="61135ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id80">
+      <!-- frog -->
+      <text src="../009.xhtml#w80"/>
+      <audio clipBegin="61135ms" clipEnd="61835ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id80g">
+      <!--  -->
+      <text src="../009.xhtml#empty1"/>
+      <audio clipBegin="61835ms" clipEnd="62910ms" src="../audio/9781484750513.m4a"/>
+    </par>
+  </body>
+</smil>

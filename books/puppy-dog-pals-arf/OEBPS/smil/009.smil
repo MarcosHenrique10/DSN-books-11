@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id78g">
+			<!--  -->
+			<text src="../009.xhtml#empty"/>
+			<audio clipBegin="46887ms" clipEnd="47497ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id78">
+			<!-- ARF -->
+			<text src="../009.xhtml#w78"/>
+			<audio clipBegin="47497ms" clipEnd="47737ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id79">
+			<!-- stands -->
+			<text src="../009.xhtml#w79"/>
+			<audio clipBegin="47737ms" clipEnd="48197ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id80">
+			<!-- for -->
+			<text src="../009.xhtml#w80"/>
+			<audio clipBegin="48197ms" clipEnd="48477ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id81">
+			<!-- AUTO -->
+			<text src="../009.xhtml#w81"/>
+			<audio clipBegin="48477ms" clipEnd="48817ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id82">
+			<!-- DOGGIE -->
+			<text src="../009.xhtml#w82"/>
+			<audio clipBegin="48817ms" clipEnd="49277ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id83">
+			<!-- ROBOTIC -->
+			<text src="../009.xhtml#w83"/>
+			<audio clipBegin="49277ms" clipEnd="49897ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id84">
+			<!-- FRIEND -->
+			<text src="../009.xhtml#w84"/>
+			<audio clipBegin="49897ms" clipEnd="50527ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id84g">
+			<!--  -->
+			<text src="../009.xhtml#empty"/>
+			<audio clipBegin="50527ms" clipEnd="51612ms" src="../audio/9781368010962.m4a"/>
+		</par>
+	</body>
+</smil>

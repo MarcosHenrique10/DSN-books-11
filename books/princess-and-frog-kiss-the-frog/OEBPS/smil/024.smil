@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id223g">
+      <!--  -->
+      <text src="../024.xhtml#empty"/>
+      <audio clipBegin="154530ms" clipEnd="155605ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id223">
+      <!-- Mama -->
+      <text src="../024.xhtml#w223"/>
+      <audio clipBegin="155605ms" clipEnd="156125ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id224">
+      <!-- Odie -->
+      <text src="../024.xhtml#w224"/>
+      <audio clipBegin="156125ms" clipEnd="156515ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id225">
+      <!-- shows -->
+      <text src="../024.xhtml#w225"/>
+      <audio clipBegin="156515ms" clipEnd="156985ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id226">
+      <!-- Naveen -->
+      <text src="../024.xhtml#w226"/>
+      <audio clipBegin="156985ms" clipEnd="157825ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id227">
+      <!-- a -->
+      <text src="../024.xhtml#w227"/>
+      <audio clipBegin="157825ms" clipEnd="157905ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id228">
+      <!-- princess -->
+      <text src="../024.xhtml#w228"/>
+      <audio clipBegin="157905ms" clipEnd="158915ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id228g">
+      <!--  -->
+      <text src="../024.xhtml#empty1"/>
+      <audio clipBegin="158915ms" clipEnd="159300ms" src="../audio/9781484750513.m4a"/>
+    </par>
+  </body>
+</smil>

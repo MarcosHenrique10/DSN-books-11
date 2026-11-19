@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14125ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14125ms" clipEnd="14725ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14725ms" clipEnd="15095ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Elle -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15095ms" clipEnd="15365ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- D -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="15365ms" clipEnd="15685ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Risco -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15685ms" clipEnd="16855ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="16855ms" clipEnd="17455ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="17455ms" clipEnd="17635ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Jean-Paul -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="17635ms" clipEnd="18374ms" src="../audio/9781423189411.m4a"/>
+    </par>
+<!-- 
+    <par id="id9">
+      <!~~ Paul ~~>
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="18035ms" clipEnd="18374ms" src="../audio/9781423189411.m4a"/>
+    </par>
+ -->
+    <par id="id10">
+      <!-- Orpiñas -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="18374ms" clipEnd="19285ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- and -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="19285ms" clipEnd="19435ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Scott -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="19435ms" clipEnd="19795ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Tilley -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="19795ms" clipEnd="21055ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Designed -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="21055ms" clipEnd="21515ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- by -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="21515ms" clipEnd="21685ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Tony -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="21685ms" clipEnd="22105ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Fejeran -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="22105ms" clipEnd="22635ms" src="../audio/9781423189411.m4a"/>
+    </par>
+    <par id="id17g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="22635ms" clipEnd="23547ms" src="../audio/9781423189411.m4a"/>
+    </par>
+  </body>
+</smil>

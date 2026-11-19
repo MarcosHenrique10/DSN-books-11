@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id649g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="306253ms" clipEnd="306853ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id649">
+			<!-- Next -->
+			<text src="../021.xhtml#w649"/>
+			<audio clipBegin="306853ms" clipEnd="307473ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id650">
+			<!-- it's -->
+			<text src="../021.xhtml#w650"/>
+			<audio clipBegin="307473ms" clipEnd="307663ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id651">
+			<!-- time -->
+			<text src="../021.xhtml#w651"/>
+			<audio clipBegin="307663ms" clipEnd="308003ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id652">
+			<!-- for -->
+			<text src="../021.xhtml#w652"/>
+			<audio clipBegin="308003ms" clipEnd="308143ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id653">
+			<!-- the -->
+			<text src="../021.xhtml#w653"/>
+			<audio clipBegin="308143ms" clipEnd="308273ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id654">
+			<!-- Design -->
+			<text src="../021.xhtml#w654"/>
+			<audio clipBegin="308273ms" clipEnd="308843ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id655">
+			<!-- a -->
+			<text src="../021.xhtml#w655"/>
+			<audio clipBegin="308843ms" clipEnd="308933ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id656">
+			<!-- Dog -->
+			<text src="../021.xhtml#w656"/>
+			<audio clipBegin="308933ms" clipEnd="309403ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id657">
+			<!-- roller -->
+			<text src="../021.xhtml#w657"/>
+			<audio clipBegin="309403ms" clipEnd="309813ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id658">
+			<!-- skating -->
+			<text src="../021.xhtml#w658"/>
+			<audio clipBegin="309813ms" clipEnd="310293ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id659">
+			<!-- sing -->
+			<text src="../021.xhtml#w659"/>
+			<audio clipBegin="310293ms" clipEnd="310563ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id660">
+			<!-- along -->
+			<text src="../021.xhtml#w660"/>
+			<audio clipBegin="310563ms" clipEnd="311633ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id661">
+			<!-- Whoaaaa -->
+			<text src="../021.xhtml#w661"/>
+			<audio clipBegin="311633ms" clipEnd="313083ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id662">
+			<!-- Rolly -->
+			<text src="../021.xhtml#w662"/>
+			<audio clipBegin="313083ms" clipEnd="313453ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id663">
+			<!-- calls -->
+			<text src="../021.xhtml#w663"/>
+			<audio clipBegin="313453ms" clipEnd="314253ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id664">
+			<!-- slipping -->
+			<text src="../021.xhtml#w664"/>
+			<audio clipBegin="314253ms" clipEnd="314913ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id665">
+			<!-- and -->
+			<text src="../021.xhtml#w665"/>
+			<audio clipBegin="314913ms" clipEnd="315073ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id666">
+			<!-- sliding -->
+			<text src="../021.xhtml#w666"/>
+			<audio clipBegin="315073ms" clipEnd="315723ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id667">
+			<!-- on -->
+			<text src="../021.xhtml#w667"/>
+			<audio clipBegin="315723ms" clipEnd="315883ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id668">
+			<!-- his -->
+			<text src="../021.xhtml#w668"/>
+			<audio clipBegin="315883ms" clipEnd="316013ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id669">
+			<!-- skates -->
+			<text src="../021.xhtml#w669"/>
+			<audio clipBegin="316013ms" clipEnd="316633ms" src="../audio/9781368010948.m4a"/>
+		</par>
+		<par id="id669g">
+			<!--  -->
+			<text src="../021.xhtml#empty1"/>
+			<audio clipBegin="316633ms" clipEnd="317718ms" src="../audio/9781368010948.m4a"/>
+		</par>
+	</body>
+</smil>

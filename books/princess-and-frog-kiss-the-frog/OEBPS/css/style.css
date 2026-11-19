@@ -1,0 +1,412 @@
+img{z-index:-1;}
+
+body {
+	width: 707px;
+	height: 1060px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 707px;
+	height: 1060px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+@font-face{
+font-family:"CenturyOSMTStd";
+src: url(../fonts/CenturyOSMTStd.otf);
+}
+
+@font-face{
+font-family:"TriplexBold";
+src: url(../fonts/TriplexBold.ttf);
+}
+
+@font-face{
+font-family:"TriplexExtraBold";
+src: url(../fonts/TriplexExtraBold.ttf);
+}
+
+@font-face{
+font-family:"TriplexLight";
+src: url(../fonts/TriplexLight.ttf);
+}
+
+@font-face{
+font-family:"CenturyOSMTStd-Italic";
+src: url(../fonts/CenturyOSMTStd-Italic.otf);
+}
+
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 331px;
+	left: 0px;
+	right: 0px;
+}
+div.page2_item2{
+	position: absolute;
+	top: 782px;
+	left: 87px;
+	right: 0px;
+width: 525px;}
+div.page3_item1{
+	position: absolute;
+	top: 765px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item2{
+	position: absolute;
+	top: 971px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 698px;
+	left: 112px;
+	right: 0px;
+width: 417px;height: 203px;}
+div.page5_item1{
+	position: absolute;
+	top: 695px;
+	left: 111px;
+	right: 0px;
+width: 435px;height: 231px;}
+div.page6_item1{
+	position: absolute;
+	top: 69px;
+	left: 115px;
+	right: 0px;
+width: 383px;height: 151px;}
+div.page7_item1{
+	position: absolute;
+	top: 68px;
+	left: 110px;
+	right: 0px;
+width: 491px;height: 164px;}
+div.page8_item1{
+	position: absolute;
+	top: 70px;
+	left: 113px;
+	right: 0px;
+width: 488px;height: 239px;}
+div.page9_item1{
+	position: absolute;
+	top: 510px;
+	left: 110px;
+	right: 0px;
+width: 534px;height: 235px;}
+div.page10_item1{
+	position: absolute;
+	top: 68px;
+	left: 112px;
+	right: 0px;
+width: 480px;height: 459px;}
+div.page12_item1{
+	position: absolute;
+	top: 68px;
+	left: 111px;
+	right: 0px;
+width: 570px;height: 445px;}
+div.page14_item1{
+	position: absolute;
+	top: 68px;
+	left: 112px;
+	right: 0px;
+width: 458px;height: 228px;}
+div.page15_item1{
+	position: absolute;
+	top: 510px;
+	left: 111px;
+	right: 0px;
+width: 526px;height: 407px;}
+div.page16_item1{
+	position: absolute;
+	top: 68px;
+	left: 113px;
+	right: 0px;
+width: 463px;height: 466px;}
+div.page17_item1{
+	position: absolute;
+	top: 618px;
+	left: 112px;
+	right: 0px;
+width: 518px;height: 294px;}
+div.page18_item1{
+	position: absolute;
+	top: 68px;
+	left: 79px;
+	right: 0px;
+width: 545px;height: 264px;}
+div.page19_item1{
+	position: absolute;
+	top: 695px;
+	left: 112px;
+	right: 0px;
+}
+div.page20_item1{
+	position: absolute;
+	top: 775px;
+	left: 114px;
+	right: 0px;
+width: 612px;height: 142px;}
+div.page21_item1{
+	position: absolute;
+	top: 68px;
+	left: 111px;
+	right: 0px;
+width: 413px;height: 163px;}
+div.page22_item1{
+	position: absolute;
+	top: 68px;
+	left: 114px;
+	right: 0px;
+width: 453px;height: 152px;}
+div.page23_item1{
+	position: absolute;
+	top: 68px;
+	left: 111px;
+	right: 0px;
+width: 504px;height: 142px;}
+div.page24_item1{
+	position: absolute;
+	top: 68px;
+	left: 112px;
+	right: 0px;
+width: 486px;height: 293px;}
+div.page25_item1{
+	position: absolute;
+	top: 68px;
+	left: 111px;
+	right: 0px;
+width: 514px;height: 287px;}
+div.page27_item1{
+	position: absolute;
+	top: 615px;
+	left: 110px;
+	right: 0px;
+width: 496px;height: 235px;}
+div.page28_item1{
+	position: absolute;
+	top: 67px;
+	left: 112px;
+	right: 0px;
+width: 536px;height: 397px;}
+div.page30_item1{
+	position: absolute;
+	top: 620px;
+	left: 111px;
+	right: 0px;
+width: 567px;height: 298px;}
+div.page31_item1{
+	position: absolute;
+	top: 619px;
+	left: 111px;
+	right: 0px;
+}
+div.page32_item1{
+	position: absolute;
+	top: 68px;
+	left: 114px;
+	right: 0px;
+width: 550px;height: 547px;}
+div.page34_item1{
+	position: absolute;
+	top: 411px;
+	left: 39px;
+	right: 0px;
+width: 587px;height: 117px;}
+div.page34_item2{
+	position: absolute;
+	top: 577px;
+	left: 148px;
+	right: 0px;
+width: 469px;height: 61px;}
+div.page34_item3{
+	position: absolute;
+	top: 655px;
+	left: 148px;
+	right: 0px;
+width: 500px;height: 74px;}
+div.page34_item4{
+	position: absolute;
+	top: 749px;
+	left: 148px;
+	right: 0px;
+width: 494px;height: 76px;}
+div.page34_item5{
+	position: absolute;
+	top: 835px;
+	left: 148px;
+	right: 0px;
+width: 517px;height: 76px;}
+
+
+span.u{
+text-decoration:underline;
+}
+
+p.nonindent{
+	font-size: 48px;
+	line-height: 79px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+font-family:"CenturyOSMTStd";
+}
+
+p.nonindent1{
+	font-size: 48px;
+	line-height: 79px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+font-family:"CenturyOSMTStd";
+color:white;
+}
+
+p.copy{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+font-family:"CenturyOSMTStd";
+}
+
+p.copy1{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+font-family:"CenturyOSMTStd";
+}
+
+p.dedication{
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+font-family:"CenturyOSMTStd-Italic";
+}
+
+
+
+
+span.arialp{
+font-family:"arial";
+}
+
+p.author{
+	font-size: 22px;
+	line-height: 42px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOSMTStd";
+}
+
+p.logo{
+	font-size: 19px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CenturyOSMTStd";
+}
+
+p.title{
+	font-size: 33px;
+	line-height: 40px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	font-family:"TriplexBold";
+	color:white;
+}
+
+p.title1{
+	font-size: 22px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+	color:white;
+}
+
+p.title2{
+	font-size: 25px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexExtraBold";
+	color:white;
+}
+
+p.text{
+	font-size: 18px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TriplexLight";
+	color:white;
+	margin-left:10px;
+	text-indent:-10px;
+}
+
+.media-overlay-active { color:#f00 !important; }

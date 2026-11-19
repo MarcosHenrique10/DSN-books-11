@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id177g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="108027ms" clipEnd="109087ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id177">
+			<!-- Plants -->
+			<text src="../020.xhtml#w177"/>
+			<audio clipBegin="109087ms" clipEnd="109617ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id178">
+			<!-- fly -->
+			<text src="../020.xhtml#w178"/>
+			<audio clipBegin="109617ms" clipEnd="110897ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id179">
+			<!-- Books -->
+			<text src="../020.xhtml#w179"/>
+			<audio clipBegin="110897ms" clipEnd="111467ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id180">
+			<!-- fall -->
+			<text src="../020.xhtml#w180"/>
+			<audio clipBegin="111467ms" clipEnd="111937ms" src="../audio/9781368010962.m4a"/>
+		</par>
+		<par id="id180g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="111937ms" clipEnd="112517ms" src="../audio/9781368010962.m4a"/>
+		</par>
+	</body>
+</smil>

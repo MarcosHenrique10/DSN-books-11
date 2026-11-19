@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id198g">
+      <!--  -->
+      <text src="../020.xhtml#empty"/>
+      <audio clipBegin="136200ms" clipEnd="137225ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id198">
+      <!-- Tiana -->
+      <text src="../020.xhtml#w198"/>
+      <audio clipBegin="137225ms" clipEnd="137775ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id199">
+      <!-- shows -->
+      <text src="../020.xhtml#w199"/>
+      <audio clipBegin="137775ms" clipEnd="138295ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id200">
+      <!-- Naveen -->
+      <text src="../020.xhtml#w200"/>
+      <audio clipBegin="138295ms" clipEnd="139125ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id201">
+      <!-- how -->
+      <text src="../020.xhtml#w201"/>
+      <audio clipBegin="139125ms" clipEnd="139415ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id202">
+      <!-- to -->
+      <text src="../020.xhtml#w202"/>
+      <audio clipBegin="139415ms" clipEnd="139555ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id203">
+      <!-- cook -->
+      <text src="../020.xhtml#w203"/>
+      <audio clipBegin="139555ms" clipEnd="140075ms" src="../audio/9781484750513.m4a"/>
+    </par>
+    <par id="id203g">
+      <!--  -->
+      <text src="../020.xhtml#empty1"/>
+      <audio clipBegin="140075ms" clipEnd="140660ms" src="../audio/9781484750513.m4a"/>
+    </par>
+  </body>
+</smil>
